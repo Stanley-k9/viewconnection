@@ -14,6 +14,7 @@ export function Hero() {
         </div>
         
         <h1 className="max-w-4xl text-balance text-center text-4xl font-bold leading-tight tracking-tight sm:text-5xl md:text-6xl lg:text-7xl">
+          <span className="sr-only">View Connection - </span>
           Building Digital Solutions{" "}
           <span className="text-muted-foreground">That Drive Growth</span>
         </h1>

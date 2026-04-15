@@ -1,6 +1,27 @@
+import type { Metadata } from "next"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { CheckCircle, MessageSquare, Code, Rocket, Headphones } from "lucide-react"
+
+export const metadata: Metadata = {
+  title: 'Our Process | How View Connection Builds Software',
+  description: 'Learn about View Connection\'s proven software development process. From discovery to deployment, we follow agile methodologies to deliver exceptional custom software solutions in South Africa.',
+  keywords: [
+    'software development process',
+    'View Connection process',
+    'agile development South Africa',
+    'custom software methodology',
+    'software development lifecycle',
+  ],
+  openGraph: {
+    title: 'Our Process | View Connection',
+    description: 'Learn about View Connection\'s proven software development process. From discovery to deployment, we deliver exceptional solutions.',
+    url: 'https://viewconnection.co.za/process',
+  },
+  alternates: {
+    canonical: '/process',
+  },
+}
 
 const steps = [
   {
