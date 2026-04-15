@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     'business software development',
     'enterprise software South Africa'
   ],
-  authors: [{ name: 'View Connection', url: 'https://viewconnection.co.za' }],
+  authors: [{ name: 'View Connection', url: 'https://viewconnection.tech' }],
   creator: 'View Connection',
   publisher: 'View Connection',
   generator: 'Next.js',
@@ -44,14 +44,14 @@ export const metadata: Metadata = {
     address: false,
     telephone: false,
   },
-  metadataBase: new URL('https://viewconnection.co.za'),
+  metadataBase: new URL('https://viewconnection.tech'),
   alternates: {
     canonical: '/',
   },
   openGraph: {
     type: 'website',
     locale: 'en_ZA',
-    url: 'https://viewconnection.co.za',
+    url: 'https://viewconnection.tech',
     siteName: 'View Connection',
     title: 'View Connection | Software Development & Digital Solutions | South Africa',
     description: 'View Connection (ViewConnection) is South Africa\'s premier software development company. We build custom software solutions, web applications, and digital products that drive business growth.',

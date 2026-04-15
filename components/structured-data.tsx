@@ -4,8 +4,8 @@ export function StructuredData() {
     '@type': 'Organization',
     name: 'View Connection',
     alternateName: ['ViewConnection', 'View Connection South Africa', 'ViewConnection SA'],
-    url: 'https://viewconnection.co.za',
-    logo: 'https://viewconnection.co.za/icon.svg',
+    url: 'https://viewconnection.tech',
+    logo: 'https://viewconnection.tech/icon.svg',
     description: 'View Connection is South Africa\'s premier software development company, building custom software solutions, web applications, and digital products that drive business growth.',
     foundingDate: '2019',
     address: {
@@ -42,8 +42,8 @@ export function StructuredData() {
     '@type': 'ProfessionalService',
     name: 'View Connection',
     alternateName: 'ViewConnection',
-    image: 'https://viewconnection.co.za/og-image.png',
-    url: 'https://viewconnection.co.za',
+    image: 'https://viewconnection.tech/og-image.png',
+    url: 'https://viewconnection.tech',
     description: 'Professional software development company in South Africa offering custom software solutions, web development, mobile apps, and cloud solutions.',
     priceRange: '$$',
     address: {
@@ -97,7 +97,7 @@ export function StructuredData() {
     '@type': 'WebSite',
     name: 'View Connection',
     alternateName: 'ViewConnection',
-    url: 'https://viewconnection.co.za',
+    url: 'https://viewconnection.tech',
     description: 'View Connection - South Africa\'s premier software development company',
     publisher: {
       '@type': 'Organization',
@@ -107,7 +107,7 @@ export function StructuredData() {
       '@type': 'SearchAction',
       target: {
         '@type': 'EntryPoint',
-        urlTemplate: 'https://viewconnection.co.za/?search={search_term_string}',
+        urlTemplate: 'https://viewconnection.tech/?search={search_term_string}',
       },
       'query-input': 'required name=search_term_string',
     },

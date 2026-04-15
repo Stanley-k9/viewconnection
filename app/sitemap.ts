@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://viewconnection.co.za'
+  const baseUrl = 'https://viewconnection.tech'
   
   return [
     {

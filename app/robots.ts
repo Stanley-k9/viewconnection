@@ -12,6 +12,6 @@ export default function robots(): MetadataRoute.Robots {
         allow: '/',
       },
     ],
-    sitemap: 'https://viewconnection.co.za/sitemap.xml',
+    sitemap: 'https://viewconnection.tech/sitemap.xml',
   }
 }
