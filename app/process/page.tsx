@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Our Process | View Connection',
     description: 'Learn about View Connection\'s proven software development process. From discovery to deployment, we deliver exceptional solutions.',
-    url: 'https://viewconnection.co.za/process',
+    url: 'https://viewconnection.tech/process',
   },
   alternates: {
     canonical: '/process',
