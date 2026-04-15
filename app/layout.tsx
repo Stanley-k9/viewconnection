@@ -102,7 +102,7 @@ export const metadata: Metadata = {
     apple: '/apple-icon.png',
   },
   verification: {
-    google: 'your-google-verification-code',
+    google: 'q5-FStoTl-XT7Fx0qloh_H1mRQxq1pi8lqEmG9O3YBs',
   },
   category: 'technology',
 }
